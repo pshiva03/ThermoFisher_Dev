@@ -1,0 +1,17 @@
+name: Feature Request
+
+description: New feature request
+
+title: "[FEATURE]: "
+
+body:
+
+- type: textarea
+
+attributes:
+
+label: Business Requirement
+
+- type: textarea
+attributes:
+label: Proposed Solution

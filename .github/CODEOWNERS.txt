@@ -1,0 +1,8 @@
+# Default owner
+* @pshiva03
+
+# Infrastructure
+/terraform/* @cloud-team
+ 
+# GitHub Workflows
+/.github/* @platform-team
